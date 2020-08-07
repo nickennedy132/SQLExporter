@@ -1,2 +1,2 @@
 # SQLExporter
-C# application to export data in an encrypted format
+C# application to export data in an encrypted format. Still WIP

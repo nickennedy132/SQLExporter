@@ -1,0 +1,3 @@
+C:\Users\Nick\source\repos\Exporter\Exporter\obj\Release\Exporter.Form1.resources
+C:\Users\Nick\source\repos\Exporter\Exporter\obj\Release\Exporter.Properties.Resources.resources
+C:\Users\Nick\source\repos\Exporter\Exporter\obj\Release\Exporter.csproj.GenerateResource.cache

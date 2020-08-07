@@ -1,0 +1,13 @@
+C:\Users\Nick\source\repos\Exporter\Exporter\bin\Debug\Exporter.exe.config
+C:\Users\Nick\source\repos\Exporter\Exporter\bin\Debug\Exporter.exe
+C:\Users\Nick\source\repos\Exporter\Exporter\bin\Debug\Exporter.pdb
+C:\Users\Nick\source\repos\Exporter\Exporter\obj\Debug\Exporter.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\Exporter\Exporter\obj\Debug\Exporter.Properties.Resources.resources
+C:\Users\Nick\source\repos\Exporter\Exporter\obj\Debug\Exporter.csproj.GenerateResource.cache
+C:\Users\Nick\source\repos\Exporter\Exporter\obj\Debug\Exporter.exe
+C:\Users\Nick\source\repos\Exporter\Exporter\obj\Debug\Exporter.pdb
+C:\Users\Nick\source\repos\Exporter\Exporter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nick\source\repos\Exporter\Exporter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nick\source\repos\Exporter\Exporter\obj\Debug\Exporter.csproj.CopyComplete
+C:\Users\Nick\source\repos\Exporter\Exporter\obj\Debug\Exporter.Setup.resources
+C:\Users\Nick\source\repos\Exporter\Exporter\obj\Debug\Exporter.Query.resources
